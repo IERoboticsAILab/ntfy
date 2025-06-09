@@ -48,6 +48,4 @@ curl -d "Hi" 10.205.10.2:1337/alerts
 
 ```
 
----
-
-Let me know if you'd like to tailor this README to a specific lab workflow (e.g., integration with cron jobs, sensors, Python scripts, etc.).
+Visit this link http://10.205.10.2:1337/alerts and you should find your notification there!
