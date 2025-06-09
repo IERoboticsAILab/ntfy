@@ -37,12 +37,6 @@ Or install the [ntfy mobile app](https://ntfy.sh/app/) and subscribe to the same
 
 There is are official Python and JavaScript Libraries to interface with these, feel free to check them out as well.
 
-Example:
-
-```
-https://ntfy.sh/lab-alerts
-```
-
 ---
 
 ### 📤 Send a Notification
